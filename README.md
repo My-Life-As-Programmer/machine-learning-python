@@ -1,2 +1,2 @@
 # machine-learning-python
-Various ML models developed n python
+Various ML models developed in python
